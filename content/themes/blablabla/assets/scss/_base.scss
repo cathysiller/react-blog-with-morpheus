@@ -10,7 +10,7 @@ html {
 body {
   height: 100%;
   max-height: 100%;
-  font-family: "Merriweather", serif;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
   letter-spacing: 0.01rem;
   @include font-size(18);
   line-height: 1.75em;
@@ -40,7 +40,7 @@ h6 {
   color: $light-black;
   line-height: 1.15em;
   margin: 0 0 0.4em;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
 }
 h1 {
   @include font-size(50);
@@ -150,7 +150,7 @@ mark {
 code,
 tt {
   padding: 1px 3px;
-  font-family: Inconsolata, monospace, sans-serif;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
   @include font-size(16);
   white-space: pre-wrap;
   border: #e3edf3 1px solid;
@@ -163,7 +163,7 @@ pre {
   margin: 0 0 1.75em;
   border: #e3edf3 1px solid;
   width: 100%;
-  font-family: Inconsolata, monospace, sans-serif;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
   @include font-size(16);
   white-space: pre;
   overflow: auto;

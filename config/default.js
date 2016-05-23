@@ -14,13 +14,13 @@ module.exports = {
   postPerPage: 3, // number of posts per page
   siteUrl: 'http://localhost:3000', // the url of your website
   useSSL: false, // if true it redirects all incoming requests to the https url
-  siteTitle: 'Morpheus',
+  siteTitle: 'Cathy Siller Blog',
   theme: 'blablabla', // currently used theme
-  siteDescription: '- say hi to the next generation web publishing platform -',
+  siteDescription: '- i consist of tech, cats, & all things cute -',
   port: 3000,
   ip: '127.0.0.1',
   authors: {
-    'youreamail@yourwebsite.something': {
+    'cathysiller503@gmail.com': {
       meta: 'I really like to write :)'
     }
   },
